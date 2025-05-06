@@ -52,13 +52,13 @@ Usage
         Expected Return: The annual rate of return (in percentage).
         Duration: The number of years you plan to invest.
 
-    The app will calculate and display:
+The app will calculate and display:
         Yearly investment value.
         Interest earned each year.
         Total interest earned.
         Total invested capital.
 
-    If the duration is invalid (less than or equal to 0), a validation message will be displayed.
+If the duration is invalid (less than or equal to 0), a validation message will be displayed.
 
 Scripts
     npm run dev: Starts the development server.
